@@ -1,5 +1,4 @@
-# Exploratory-Data-Analysis-on-Titanic-Dataset-using-SQL
-# 🚢 Titanic Dataset EDA using SQL
+# **🚢 Titanic Dataset EDA using SQL**
 
 Welcome to my SQL-based Exploratory Data Analysis (EDA) project on the iconic **Titanic dataset**. In this project, I used SQL to uncover patterns and insights related to passenger survival, demographics, class, and more.
 
